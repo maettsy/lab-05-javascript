@@ -1,11 +1,2 @@
-<!DOCTYPE html>
-<html>
-<body>
-<script>
-alert("WTF winter?!");
-</script>
-</body>
-</html>
-
-
-
+This is lab 05
+It's about JavaScript
